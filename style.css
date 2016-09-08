@@ -1,0 +1,267 @@
+#position {
+  position: fixed;
+  z-index: 10;
+
+}
+ul {
+  display: inline;
+}
+
+li {
+  float: right;
+  position: relative;
+  right: 290px;
+  padding: 10px;
+  list-style: none;
+  top: 10px;
+}
+
+#background {
+  background: purple;
+  height: 60px;
+  width: 1413px;
+}
+
+a.nav {
+  text-decoration: none;
+  color: grey;
+  
+}
+
+a.nav:hover {
+  border: 1px solid purple;
+  background: white;
+  box-shadow: 1px 1px 1px grey;
+}
+
+a.nav:active {
+  background: white;
+}
+
+h3 {
+  position: absolute;
+  left: 200px;
+  top: -8px;
+  font-size: 25px;
+  color: white;
+  padding-top: 0;
+}
+
+body {
+  background: grey;
+}
+
+#centraldiv {
+  background: darkgrey;
+  height: 440px;
+  width: 900px;
+  margin: auto;
+  border: 1px solid darkgrey;
+}
+
+#myimg {
+  height: 250px;
+  position: relative;
+  left: 600px;
+  top: 80px;
+  border-radius: 140px
+}
+
+#p {
+  position: absolute;
+  top: 120px;
+  bottom: 1px;
+  left: 290px;
+  width: 550px;
+  color: white;
+  font-size: 25px;
+  text-align: justify;
+}
+
+#line {
+  color: white;
+  position: absolute;
+  top: 310px;
+  left: 410px;
+}
+
+#p1 {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  top: 340px;
+  left: 290px;
+}
+
+#centraldiv2 {
+  background: white;
+  height: 280px;
+  width: 900px;
+  margin: auto;
+  border: 1px solid darkgrey;
+}
+
+#h2 {
+  color: grey;
+  Text-align: center;
+  margin-top: 50px;
+}
+
+#line1 {
+  color: grey;
+  height: 50px;
+  position: absolute;
+  left: 460px;
+}
+
+.port1 {
+  width: 150px;
+  height: 100px;
+  margin-top: 45px;
+  margin-left: 50px;
+  float: left;
+}
+
+.port2 {
+  width: 150px;
+  height: 85px;
+  margin-top: 45px;
+  margin-left: 50px;
+  float: left;
+}
+
+.port3 {
+  width: 150px;
+  height: 90px;
+  margin-top: 45px;
+  margin-left: 50px;
+  float: left;
+}
+
+.port4 {
+  width: 150px;
+  height: 100px;
+  margin-top: 45px;
+  margin-left: 50px;
+  float: left;
+}
+
+#centraldiv3 {
+  background: white;
+  height: 690px;
+  width: 900px;
+  margin: auto;
+  border: 1px solid darkgrey;
+}
+
+#contact {
+  position: absolute;
+  top: 930px;
+  bottom: 1px;
+  left: 730px;
+  width: 380px;
+  color: grey;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.input {
+  display: block;
+  margin: 35px;
+  border-top: none;
+  border-left: none;
+  border-bottom: 1px solid grey;
+  border-right: none;
+  position: relative;
+  top: 96px;
+  left: 20px;
+  font-size: 30px;
+}
+
+input placeholder {
+  font-size: 20px;
+}
+
+.mess {
+  height: 200px;
+}
+
+#contact1 {
+  position: absolute;
+  top: 1150px;
+  bottom: 1px;
+  left: 730px;
+  width: 380px;
+  color: grey;
+  font-size: 20px;
+  text-align: justify;
+}
+
+#contact2 {
+  position: absolute;
+  top: 1350px;
+  bottom: 1px;
+  left: 750px;
+  width: 380px;
+  color: grey;
+  font-size: 20px;
+  text-align: justify;
+}
+
+#button {
+  width: 80px;
+  height: 32px;
+  position: relative;
+  top: 70px;
+  left: 60px;
+  font-size: 16px;
+}
+
+#lastdiv {
+  width: 1413px;
+  background: darkgrey;
+  height: 200px;
+  position: absolute;
+  top: 1483px;
+}
+
+#p2 {
+   position: relative;
+  top: 30px;
+  left: 350px;
+  color: white;
+  font-size: 25px;
+}
+
+#p3 {
+  position: relative;
+  top: 30px;
+  left: 350px;
+  color: white;
+  font-size: 20px;
+
+}
+
+.color {
+  color: purple;
+}
+
+#lastdiv1 {
+  width: 1413px;
+  background: purple;
+  height: 70px;
+  position: absolute;
+  top: 1684px;
+}
+
+#lastp {
+  position: relative;
+  left: 570px;
+  top: 10px;
+  font-size: 18px;
+  
+}
+
+#lastcolor {
+  color: white;
+}
